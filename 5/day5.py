@@ -35,7 +35,6 @@ def draw_map(vents):
     
     return map
     
-    
 def print_map(map):
     for row in map:
         print_string = ""
